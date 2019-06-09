@@ -11,6 +11,7 @@
     <modules>
         <module>Generic</module>
         <module>TDbank</module>
+        <module>ESPN</module>
     </modules>
 
     <dependencyManagement>
